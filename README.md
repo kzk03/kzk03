@@ -1,6 +1,18 @@
-<a href="https://github.com/kzk03">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kzk03&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/kzk03">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzk03&layout=compact&theme=dracula" />
-</a>
+# 🇯🇵
+### Just 22 years old 
+
+
+<h1>Language and Skills</h1>
+
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,java,next,react,vue,docker,git,figma)
+
+<h1>Analytics</h1>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoei03&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shoei03&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kzk03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Come on, me!
+[![GitHub Streak](https://streak-stats.demolab.com?user=kzk03&theme=dark&locale=ja)](https://git.io/streak-stats)
